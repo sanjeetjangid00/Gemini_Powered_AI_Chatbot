@@ -1,6 +1,6 @@
 # Gemini_Powered_AI_Chatbot
 
-App Link - 
+App Link - https://gemini-powered-ai-chatbot.streamlit.app/
 #### NOTE: At the first time, it will display "This app has gone to sleep due to inactivity. Would you like to wake it back up? Yes, get this app back up!" Then click on the "Yes, get this app back up!" button.
 
 ![Gemini_Powered_AI_Chatbot](https://github.com/user-attachments/assets/5ee4a358-b970-461e-97a5-471f3fda00b3)
